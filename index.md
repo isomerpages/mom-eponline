@@ -13,5 +13,5 @@ sections:
       background: /images/Untitled.png
       button: Go to ep eservice
       url: https://www.mom.gov.sg/eservices/services/employment-pass-eservice
-      variant: image
+      variant: center
 ---
