@@ -1,0 +1,5 @@
+collections:
+  moved:
+    output: true
+    order:
+      - Website Has Moved.md
