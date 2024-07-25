@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: EP Online eService has moved
-description: EP Online eService has moved
+title: EP Online eService Has Moved
+description: EP Online eService Has Moved
 image: /images/logo_mom.png
 permalink: /
 notification: ""
