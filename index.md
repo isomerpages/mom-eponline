@@ -4,7 +4,7 @@ title: EP Online eService has moved
 description: An Isomer site of the Singapore Government
 image: /images/logo_mom.png
 permalink: /
-notification: ""
+notification: We have moved
 sections:
   - hero:
       title: The EP Online e-Service has moved.
