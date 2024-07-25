@@ -11,7 +11,7 @@ sections:
       subtitle: Please click on button below to go to the new Employment Pass (EP)
         eService
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Go to ep eservice
       url: /contact-us/
       variant: center
 ---
