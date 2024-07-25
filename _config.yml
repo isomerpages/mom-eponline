@@ -1,4 +1,4 @@
-title: EP Online eService has moved
+title: EP Online eService
 url: https://eponline.mom.gov.sg
 favicon: /images/Group_1.png
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: EP Online eService has moved
 permalink: none
 baseurl: ""
 exclude:
