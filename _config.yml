@@ -53,7 +53,7 @@ staging: https://staging-lite.ddz9epxogvjap.amplifyapp.com
 prod: https://master.d3lol4viq9yvix.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/logo_mom.png
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: moved
