@@ -12,6 +12,6 @@ sections:
         eService
       background: /images/hero-banner.png
       button: Go to ep eservice
-      url: /contact-us/
+      url: https://www.mom.gov.sg/eservices/services/employment-pass-eservice
       variant: center
 ---
