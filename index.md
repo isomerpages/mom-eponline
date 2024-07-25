@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: The EP Online e-Service has moved.
+      title: The EP Online e-Service has moved
       subtitle: Please click on button below to go to the new Employment Pass (EP)
         eService
       background: /images/blue_bg.png
