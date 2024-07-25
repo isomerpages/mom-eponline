@@ -1,4 +1,5 @@
 collections:
   moved:
     output: true
-    order: []
+    order:
+      - Website Has Moved.md
