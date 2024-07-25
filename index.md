@@ -11,7 +11,7 @@ sections:
       subtitle: Please click the button below or update your bookmarks to access our
         updated website
       background: /images/blue_bg.png
-      button: Go to ep e-service
+      button: GO TO EP ONLINE
       url: https://www.mom.gov.sg/eservices/services/employment-pass-eservice
       variant: center
 ---
