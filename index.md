@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: EP Online eService Has Moved
+title: EP Online e-Service Has Moved
 description: EP Online eService Has Moved
 image: /images/logo_mom.png
 permalink: /
