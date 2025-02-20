@@ -8,8 +8,9 @@ notification: ""
 sections:
   - hero:
       title: The EP Online e-Service Has Moved
-      subtitle: Please click the button below or update your bookmarks to access our
-        updated website
+      subtitle: "This site will NOT exist beyond 1st June 2025. Please use this link
+        instead :
+        https://www.mom.gov.sg/eservices/services/employment-pass-eservice"
       background: /images/blue_bg.png
       button: GO TO EP ONLINE
       url: https://www.mom.gov.sg/eservices/services/employment-pass-eservice
